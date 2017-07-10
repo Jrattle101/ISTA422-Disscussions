@@ -1,4 +1,5 @@
 #AZURE Load Balencers
+
    the Azure Load Balancer is used to provide a relatively    
    even distribution of network traffic across a set of    
    (often similarly configured or related) VMs.    
@@ -32,7 +33,8 @@
    address and the local ports assigned to the services on the virtual machines in    
    the cloud service.   
    
-##Azure Load Balancer   
+##Azure Load Balancer
+
    Azure Load Balancer uses a hash-based distribution algorithm. By default,   
    it uses a 5-tuple hash composed of source IP, source port, destination IP,   
    destination port, and protocol type to map traffic to available servers. It   
