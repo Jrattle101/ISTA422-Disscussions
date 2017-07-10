@@ -2,14 +2,14 @@
 
    the Azure Load Balancer is used to provide a relatively    
    even distribution of network traffic across a set of    
-   (often similarly configured or related) VMs.    
-   Using the load balancer allows you to have multiple VMs work together  
+   (often similarly configured or related) VMs. Using the    
+   load balancer allows you to have multiple VMs work together  
    
    There are two types of load balancers available in Azure: an external    
-   load balancer and an internal load balancer   
-   The external load balancer is used for distributing traffic from the Internet   
-   across one or more VMs. This enables you to expose your application in a highly   
-   scalable and highly available manner.    
+   load balancer and an internal load balancer The external load balancer 
+   is used for distributing traffic from the Internet across one or more VMs. 
+   This enables you to expose your application in a highly scalable and highly 
+   available manner.       
    
    The internal load balancer is used to distribute traffic from within a virtual 
    network across a set of VMs. For example, this could be traffic to a web API   
@@ -17,8 +17,8 @@
    not to the public Internet.   
    
    It's important to understand the differences between the Azure classic and    
-   Resource Manager deployment models.    
-   Azure Load Balancer is configured differently in each model.   
+   Resource Manager deployment models. Azure Load Balancer is configured 
+   differently in each model.   
       
    Virtual machines deployed within a cloud service boundary can be grouped    
    to use a load balancer. In this model a public IP address and a    
