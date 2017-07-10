@@ -42,9 +42,15 @@
    or UDP session will be directed to the same instance behind the load-balanced    
    endpoint. When the client closes and reopens the connection or starts a new    
    session from the same source IP, the source port changes. This may cause the   
-   traffic to go to a different endpoint in a different datacenter.  
+   traffic to go to a different endpoint in a different datacenter.
 
+### References
 
+   K. (n.d.). Azure Resource Manager support for Load Balancer.    
+   Retrieved July 10, 2017, from https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-arm   
+
+   Collier, M. S., & Shahan, R. E. (2015). Fundamentals of Azure: 
+   Microsoft Azure essentials. Redmond, WA: Microsoft Press.
 
 
 
