@@ -1,4 +1,4 @@
-# Load Balencers
+# Load Balancers
 
    the Azure Load Balancer is used to provide a relatively    
    even distribution of network traffic across a set of    
