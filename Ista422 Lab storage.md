@@ -37,7 +37,11 @@
    1. on the container page click delete container
    1. hit yes on the confirmation 
     
-   1. under file services select the files button
-   1. on the new blade click the file share button
+### Task 3
+   
+   1. From the storage account blade click delete  at the top of the blade
+   1. Type the name of your storage account in the box and press delete
+   1. on the lsft hand side select more services and then select storage account
+      and ensure that your resource has been deleted.
 
 
